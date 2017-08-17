@@ -1,2 +1,2 @@
-# jr-devleague-javascript-projects
+# javascript
 List of all Jr DevLeague JavaScript Projects
