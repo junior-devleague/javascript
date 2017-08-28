@@ -24,7 +24,6 @@ Resources:
 * HTML Attributes - https://www.w3schools.com/tags/ref_attributes.asp
 * CSS Syntax tutorial - https://www.lynda.com/CSS-tutorials/CSS-syntax/578096/625176-4.html
 
-## Week 3
 ### Class Recap 8/10/18
 Format of the class was as follows:
 * Review of what HTML and CSS are
@@ -35,7 +34,7 @@ Format of the class was as follows:
 Resources: 
 * What is GitHub - https://www.youtube.com/watch?v=w3jLJU7DT5E
 
-## Week 4
+## Week 3
 ### Class Recap 8/17/18
 Format of the class was as follows:
 * Difference between in-line styling and separate files
@@ -50,7 +49,7 @@ Resources:
 * Terminal Practice - http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
 * Git and GitHub practice - https://try.github.io/levels/1/challenges/1
 
-## Week 5
+## Week 4
 ### Class Recap 8/21/18
 Format of the class was as follows:
 * HTML/CSS review and linking files
@@ -62,7 +61,15 @@ Format of the class was as follows:
 Resources: 
 * Effective wireframing - https://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399
 
-## Week 6
 ### Class Recap 8/24/18
+Format of the class was as follows:
+* Setting up new development environment in Terminal/Sublime/Browser
+* Sanity Checks when linking files
+* Started Video Player project
+* Syntax formatting and errors
+* Introduction to debugging in Chrome Dev Tools
+
+## Week 5
+### Class Recap 8/28/18
 Format of the class was as follows:
 
