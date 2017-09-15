@@ -73,3 +73,6 @@ Format of the class was as follows:
 ### Class Recap 8/28/18
 Format of the class was as follows:
 
+## Week 6
+### Class Recap 9/14/17
+
