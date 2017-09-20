@@ -84,7 +84,16 @@ Resources:
 
 ## Week 6
 ### Class Recap 9/14/17
+Format of the class was as follows:
+* Continued working on video-player project
+* Did a refresher of committing and saving work to GitHub
+* Resolved some computers ssh errors so students could save their work
 
 ## Week 7
 ### Class Recap 9/18/17
-
+Format of the class was as follows: 
+* Live coded first part of video-player for students again
+* Did a refresher on changing directories in terminal using cd
+* Also did a refresher on using git commands
+* Had everyone save their work and link their projects in slack
+* Introduction to DOM and innerHTML
