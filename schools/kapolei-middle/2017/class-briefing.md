@@ -47,7 +47,6 @@ Format of the class was as follows:
 Resources:
 * Command Line Cheat Sheet - https://github.com/junior-devleague-educators/command-line-cheat-sheet
 * Terminal Practice - http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
-* Git and GitHub practice - https://try.github.io/levels/1/challenges/1
 
 ## Week 4
 ### Class Recap 8/21/18
@@ -69,10 +68,23 @@ Format of the class was as follows:
 * Syntax formatting and errors
 * Introduction to debugging in Chrome Dev Tools
 
+Resources:
+* Linking files - https://webdesign.tutsplus.com/tutorials/web-design-for-kids-css--cms-24116
+
 ## Week 5
 ### Class Recap 8/28/18
 Format of the class was as follows:
+* Continued to work on Video Player Project
+* Introduced Git Commands(git status, git add, git commit, git push)
+* Live coded first part of video player
+* Pushed up initial commits to GitHub
+
+Resources:
+* Git and GitHub practice - https://try.github.io/levels/1/challenges/1
 
 ## Week 6
 ### Class Recap 9/14/17
+
+## Week 7
+### Class Recap 9/18/17
 
