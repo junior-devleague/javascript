@@ -1,5 +1,5 @@
 ## Week 1 
-### Class Recap 10/17/18
+### Class Recap 10/17/17
 Format of the class was as follows:
 * Introductions - Students introduced themselves and I explained what we do at Jr. DevLeague
 * Class overview - What will be learning in the class, setting rules and expecations.
