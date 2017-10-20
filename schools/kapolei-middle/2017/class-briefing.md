@@ -97,3 +97,11 @@ Format of the class was as follows:
 * Also did a refresher on using git commands
 * Had everyone save their work and link their projects in slack
 * Introduction to DOM and innerHTML
+
+## Week 8
+### Class Recap 10/19/17
+Format of the class was as follows: 
+* Live coded command line basics, linking js file, html basics, and DOM to refresh the class
+* Assigned mini assignment where the class had to use DOM to manipulate HTML 
+* Live coded variables, console.log, comments, and data types
+
