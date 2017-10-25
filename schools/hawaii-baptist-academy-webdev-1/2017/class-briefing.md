@@ -23,3 +23,16 @@ Format of the class was as follows:
 Resources:
 * Command Line Tutorial: https://www.learnenough.com/command-line-tutorial
 * HTML Basics: https://www.w3schools.com/html/
+
+
+## Week 2 
+### Class Recap 10/24/17
+Format of the class was as follows:
+* Live Code - Reviewed creating HTML file in command line and basic HTML elements
+* Live Code - Explained ordered lists, unordered lists, and images
+* Started on `eagle-justice-league`HTML portion
+
+Resources:
+* HTML Basics: https://www.w3schools.com/html/
+* HTML Lists: https://www.w3schools.com/html/html_lists.asp
+* HTML Images: https://www.w3schools.com/html/html_images.asp
