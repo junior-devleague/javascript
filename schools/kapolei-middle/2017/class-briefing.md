@@ -105,3 +105,18 @@ Format of the class was as follows:
 * Assigned mini assignment where the class had to use DOM to manipulate HTML 
 * Live coded variables, console.log, comments, and data types
 
+## Week 9
+### Class Recap 10/23/17
+Format of the class was as follows: 
+* Live coded about Data Types, Variables, and Console.log
+* Assigned about-me beginner variables and data types assignment
+* Had students set up file structure through the command line on their own
+
+## Week 9
+### Class Recap 10/26/17
+Format of the class was as follows: 
+* Review Data Types, Variables, and Console.log for students who didn't show up last Monday
+* Class continued to work on about-me until break
+* Live coded on how to concatenate strings
+* Assigned best-pizza-story-ever beginner variables, concatinating strings, and DOM
+
