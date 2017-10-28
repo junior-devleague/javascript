@@ -36,3 +36,17 @@ Resources:
 * HTML Basics: https://www.w3schools.com/html/
 * HTML Lists: https://www.w3schools.com/html/html_lists.asp
 * HTML Images: https://www.w3schools.com/html/html_images.asp
+
+## Week 3 
+### Class Recap 10/27/17
+Format of the class was as follows:
+* Had some trouble retrieving their eagle-justice-league project since their computer wipes out all file when it restarts
+* Continued to work on eagle-justice league HTML portion only
+* Taught students how to use w3schools if they forgot the syntax
+* Live Code - Quick intro to CSS
+
+Resources:
+* HTML Basics: https://www.w3schools.com/html/
+* HTML Lists: https://www.w3schools.com/html/html_lists.asp
+* HTML Images: https://www.w3schools.com/html/html_images.asp
+* CSS Basics: https://www.w3schools.com/css/
