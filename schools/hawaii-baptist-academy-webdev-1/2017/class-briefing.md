@@ -37,7 +37,7 @@ Resources:
 * HTML Lists: https://www.w3schools.com/html/html_lists.asp
 * HTML Images: https://www.w3schools.com/html/html_images.asp
 
-## Week 3 
+## Week 2
 ### Class Recap 10/27/17
 Format of the class was as follows:
 * Had some trouble retrieving their eagle-justice-league project since their computer wipes out all file when it restarts
@@ -49,4 +49,15 @@ Resources:
 * HTML Basics: https://www.w3schools.com/html/
 * HTML Lists: https://www.w3schools.com/html/html_lists.asp
 * HTML Images: https://www.w3schools.com/html/html_images.asp
+* CSS Basics: https://www.w3schools.com/css/
+
+## Week 3
+### Class Recap 10/31/17
+Format of the class was as follows:
+* Live Code - Went through CLI and HTML. Had the class guide me all the way through it for Halloween candy
+* Live Code - Link CSS to HTML and showed them different CSS properties
+* Worked for the final 10 minutes of class on eagle-justice-league CSS portion
+
+Resources:
+* HTML Basics: https://www.w3schools.com/html/
 * CSS Basics: https://www.w3schools.com/css/
