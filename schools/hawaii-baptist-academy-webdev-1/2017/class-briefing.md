@@ -61,3 +61,14 @@ Format of the class was as follows:
 Resources:
 * HTML Basics: https://www.w3schools.com/html/
 * CSS Basics: https://www.w3schools.com/css/
+
+## Week 3
+### Class Recap 11/3/17
+Format of the class was as follows:
+* Quick review of CSS properties
+* Worked on eagle-justice-league CSS portion
+* Students completed eagle-justice-league portion
+
+Resources:
+* HTML Basics: https://www.w3schools.com/html/
+* CSS Basics: https://www.w3schools.com/css/
