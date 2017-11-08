@@ -120,3 +120,15 @@ Format of the class was as follows:
 * Live coded on how to concatenate strings
 * Assigned best-pizza-story-ever beginner variables, concatinating strings, and DOM
 
+## Week 10
+### Class Recap 10/30/17
+Format of the class was as follows:
+* Review Data Types one more time to solidify their knowledge
+* Reviewed Concatenating strings together
+* Let them work on best-pizza-story-ever for rest of class
+
+## Week 11
+### Class Recap 11/6/17
+Format of the class was as follows:
+* Let them continue working on best-pizza-story-ever until break period - some students still needed time to complete it
+* Class was able to present their best-pizza-story-ever assignments to the class until class ended.
