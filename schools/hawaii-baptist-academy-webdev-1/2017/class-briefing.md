@@ -72,3 +72,14 @@ Format of the class was as follows:
 Resources:
 * HTML Basics: https://www.w3schools.com/html/
 * CSS Basics: https://www.w3schools.com/css/
+
+
+## Week 4
+### Class Recap 11/7/17
+Format of the class was as follows:
+* Reviewed how to link HTML and CSS
+* Live-Code: id and classes
+* Introduced mondrian project
+
+Resources:
+* ID and Class: https://www.w3schools.com/css/css_syntax.asp
