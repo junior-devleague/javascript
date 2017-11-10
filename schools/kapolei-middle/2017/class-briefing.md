@@ -132,3 +132,11 @@ Format of the class was as follows:
 Format of the class was as follows:
 * Let them continue working on best-pizza-story-ever until break period - some students still needed time to complete it
 * Class was able to present their best-pizza-story-ever assignments to the class until class ended.
+
+### Class Recap 11/9/17
+Format of the class was follows: 
+* Began with lesson on comparison operators and conditional statements
+  * Went over the different operators such as =, ==, ===, !=, >, <, >=, <=
+  * Then we live coded conditional statements including if, else, else if
+  * White boarded functions and how to use them including parameters, invoking, and return.  Showed them how variables work in the global space and within functions
+  * Gave them the js-functions assignment which they worked on until end of class.  Will resume on Monday 11/13
