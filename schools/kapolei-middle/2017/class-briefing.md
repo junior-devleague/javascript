@@ -140,3 +140,10 @@ Format of the class was follows:
   * Then we live coded conditional statements including if, else, else if
   * White boarded functions and how to use them including parameters, invoking, and return.  Showed them how variables work in the global space and within functions
   * Gave them the js-functions assignment which they worked on until end of class.  Will resume on Monday 11/13
+
+## Week 12
+### Class Recap 11/13/17
+Format of the class was as follows:
+* Began with a live-code/whiteboard review of functions to refresh the students' brains
+ * Went over the different parts of a function - name, parameters/arguments, return, and calling a function/storing return in variable
+* Class worked on js-functions assignment until the end of class.
