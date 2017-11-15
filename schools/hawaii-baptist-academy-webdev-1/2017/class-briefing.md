@@ -83,3 +83,12 @@ Format of the class was as follows:
 
 Resources:
 * ID and Class: https://www.w3schools.com/css/css_syntax.asp
+
+## Week 5
+### Class Recap 11/14/17
+Format of the class was as follows:
+* Continued to Jam on mondrain project all day
+* Students had a hard time completing the last task, so I'll live code it with them next class
+
+Resources:
+* CSS Float - https://www.w3schools.com/css/css_float.asp
