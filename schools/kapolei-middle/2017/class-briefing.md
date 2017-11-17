@@ -147,3 +147,10 @@ Format of the class was as follows:
 * Began with a live-code/whiteboard review of functions to refresh the students' brains
  * Went over the different parts of a function - name, parameters/arguments, return, and calling a function/storing return in variable
 * Class worked on js-functions assignment until the end of class.
+
+### Class Recap 11/16/17
+Format of the class was as follows:
+* Continued to work on js-functions until break
+* Most of the students got up to #13 and were starting to get confused
+* Did a live-code of the solutions up to #13
+* Will be starting button-clicker game next class
