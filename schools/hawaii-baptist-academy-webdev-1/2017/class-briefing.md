@@ -92,3 +92,15 @@ Format of the class was as follows:
 
 Resources:
 * CSS Float - https://www.w3schools.com/css/css_float.asp
+
+## Week 5
+### Class Recap 11/17/17
+Format of the class was as follows:
+* Students were confused about using float. So I did a live code example of using float. 
+* They also were confused about nesting divs, so I went over that too
+* Students jammed on mondrain and I live coded the the solution 10 minutes before class
+* We will start with animations next class
+* Students have a half day next Tuesday. Will we still be teaching?
+
+Resources:
+* CSS Float - https://www.w3schools.com/css/css_float.asp
