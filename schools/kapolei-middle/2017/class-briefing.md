@@ -154,3 +154,12 @@ Format of the class was as follows:
 * Most of the students got up to #13 and were starting to get confused
 * Did a live-code of the solutions up to #13
 * Will be starting button-clicker game next class
+
+## Week 13
+### Class Recap 11/20/17
+Format of the class was as follows: 
+* Introduced them to buttons, onclick event and increments
+* Live coded with them on how to use buttons, onclicks and functions to manipulate the DOM
+* Live coded with them how to increment a number with a button
+* Introduced them to the button-clicker game where they had to create and link all files on their own.
+* Showed them freecodecamp and codecademy so that they can practice their JS, CSS, and HTML while on their break
