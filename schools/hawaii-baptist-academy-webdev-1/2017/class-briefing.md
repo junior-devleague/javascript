@@ -104,3 +104,17 @@ Format of the class was as follows:
 
 Resources:
 * CSS Float - https://www.w3schools.com/css/css_float.asp
+
+## Week 6
+### Class Recap 11/21/17
+Format of the class was as follows:
+* Started the class by showing them different HTML & CSS examples on codepen.io
+* Live coded about CSS animations with transform, psuedo-selectors, and keyframes
+* Students will start animate-everything assignment next tuesday
+
+Resources:
+* CSS Transform - https://www.w3schools.com/cssref/css3_pr_transform.asp
+* CSS Psuedo-Selectors - https://www.w3schools.com/css/css_pseudo_classes.asp
+* CSS Keyframes - https://www.w3schools.com/css/css3_animations.asp
+
+
