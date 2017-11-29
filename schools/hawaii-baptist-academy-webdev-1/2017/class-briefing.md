@@ -117,4 +117,16 @@ Resources:
 * CSS Psuedo-Selectors - https://www.w3schools.com/css/css_pseudo_classes.asp
 * CSS Keyframes - https://www.w3schools.com/css/css3_animations.asp
 
+## Week 7
+### Class Recap 11/28/17
+Format of the class was as follows:
+* Introduced ig-profile project
+* Students are in the process of working on their HTML portion of the ig-profile project
+
+Resources:
+* Background-repeate - https://www.w3schools.com/cssref/pr_background-repeat.asp
+* In-Line Block - https://www.w3schools.com/css/css_inline-block.asp
+* Border Radius - https://www.w3schools.com/cssref/css3_pr_border-radius.asp
+* Display Property - https://www.w3schools.com/cssref/pr_class_display.asp
+
 
