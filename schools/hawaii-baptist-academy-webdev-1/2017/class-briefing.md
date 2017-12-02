@@ -124,9 +124,19 @@ Format of the class was as follows:
 * Students are in the process of working on their HTML portion of the ig-profile project
 
 Resources:
-* Background-repeate - https://www.w3schools.com/cssref/pr_background-repeat.asp
+* Background-repeat - https://www.w3schools.com/cssref/pr_background-repeat.asp
 * In-Line Block - https://www.w3schools.com/css/css_inline-block.asp
 * Border Radius - https://www.w3schools.com/cssref/css3_pr_border-radius.asp
 * Display Property - https://www.w3schools.com/cssref/pr_class_display.asp
 
+## Week 8
+### Class Recap 12/1/17
+Format of the class was as follows:
+* Completed HTML portion of ig-profile
+* Students are currently working on the CSS top bar portion of their ig-profile assignment
 
+Resources:
+* Background-repeat - https://www.w3schools.com/cssref/pr_background-repeat.asp
+* In-Line Block - https://www.w3schools.com/css/css_inline-block.asp
+* Border Radius - https://www.w3schools.com/cssref/css3_pr_border-radius.asp
+* Display Property - https://www.w3schools.com/cssref/pr_class_display.asp
