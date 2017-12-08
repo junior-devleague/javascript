@@ -163,3 +163,10 @@ Format of the class was as follows:
 * Live coded with them how to increment a number with a button
 * Introduced them to the button-clicker game where they had to create and link all files on their own.
 * Showed them freecodecamp and codecademy so that they can practice their JS, CSS, and HTML while on their break
+
+## Week 14
+### Class Recap 12/7/17
+Format of the class was as follows: 
+* 15 students showed up to class, students with yellow id do not have to come in to class
+* Introduced students to event listeners and had a live-demo in class
+* Assigned open-the-presents Christmas theme assignment
