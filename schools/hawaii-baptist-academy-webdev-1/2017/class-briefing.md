@@ -140,3 +140,18 @@ Resources:
 * In-Line Block - https://www.w3schools.com/css/css_inline-block.asp
 * Border Radius - https://www.w3schools.com/cssref/css3_pr_border-radius.asp
 * Display Property - https://www.w3schools.com/cssref/pr_class_display.asp
+
+## Week 9
+### Class Recap 12/8/17
+Format of the class was as follows:
+* Worked on ig-profile until break
+* All students got basic layout and design completed
+* Live-coded about DOM
+
+Resources:
+* DOM - https://www.w3schools.com/js/js_htmldom.asp
+* document.getElementById - https://www.w3schools.com/jsref/met_document_getelementbyid.asp
+* innerHTML - https://www.w3schools.com/jsref/prop_html_innerhtml.asp
+* DOM Style Color - https://www.w3schools.com/jsref/prop_style_color.asp
+
+
