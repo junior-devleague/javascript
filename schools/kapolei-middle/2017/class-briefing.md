@@ -170,3 +170,12 @@ Format of the class was as follows:
 * 15 students showed up to class, students with yellow id do not have to come in to class
 * Introduced students to event listeners and had a live-demo in class
 * Assigned open-the-presents Christmas theme assignment
+
+
+## Week 15
+### Class Recap 1212/17
+Format of the class was as follows: 
+* About 12 students showed up to class, students with a yellow id do not have to come in to class
+* Continued to jam on open-the-presents during the whole class
+* 1 student did not attend last class, so Zak did a lecture about event listeners for him
+* Students will continue to work on open-the-presents and share their work to the class
