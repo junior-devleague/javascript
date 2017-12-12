@@ -173,7 +173,7 @@ Format of the class was as follows:
 
 
 ## Week 15
-### Class Recap 1212/17
+### Class Recap 12/11/17
 Format of the class was as follows: 
 * About 12 students showed up to class, students with a yellow id do not have to come in to class
 * Continued to jam on open-the-presents during the whole class
