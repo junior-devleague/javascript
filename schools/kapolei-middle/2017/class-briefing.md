@@ -179,3 +179,10 @@ Format of the class was as follows:
 * Continued to jam on open-the-presents during the whole class
 * 1 student did not attend last class, so Zak did a lecture about event listeners for him
 * Students will continue to work on open-the-presents and share their work to the class
+
+## Week 15
+### Class Recap 12/11/17
+Format of the class was as follows: 
+* About 13 students showed up to class, students with a yellow id do not have to come in to class
+* Continued to jam on open-the-presents until break
+* Students presented their open-the-presents project to the class
