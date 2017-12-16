@@ -129,7 +129,7 @@ Resources:
 * Border Radius - https://www.w3schools.com/cssref/css3_pr_border-radius.asp
 * Display Property - https://www.w3schools.com/cssref/pr_class_display.asp
 
-## Week 8
+## Week 7
 ### Class Recap 12/1/17
 Format of the class was as follows:
 * Completed HTML portion of ig-profile
@@ -141,7 +141,13 @@ Resources:
 * Border Radius - https://www.w3schools.com/cssref/css3_pr_border-radius.asp
 * Display Property - https://www.w3schools.com/cssref/pr_class_display.asp
 
-## Week 9
+## Week 8
+### Class Recap 12/5/17
+Format of the class was as follows:
+* Work and polish up on ig-profile
+
+
+## Week 8
 ### Class Recap 12/8/17
 Format of the class was as follows:
 * Worked on ig-profile until break
@@ -155,3 +161,29 @@ Resources:
 * DOM Style Color - https://www.w3schools.com/jsref/prop_style_color.asp
 
 
+## Week 9
+### Class Recap 12/12/17
+Format of the class was as follows:
+* Lecture and live-example of how to use the Developer tools
+* Assigned poke-DOM
+* Quick review about using getElementById
+* Assigned my-Pokedex
+
+Resources:
+* DOM - https://www.w3schools.com/js/js_htmldom.asp
+* document.getElementById - https://www.w3schools.com/jsref/met_document_getelementbyid.asp
+* innerHTML - https://www.w3schools.com/jsref/prop_html_innerhtml.asp
+* DOM Style Color - https://www.w3schools.com/jsref/prop_style_color.asp
+
+## Week 9
+### Class Recap 12/15/17
+Format of the class was as follows:
+* Continue working on my-Pokedex until break time
+* Roundtable with the students
+* Showed students some youtube videos about careers in web development
+
+Resources:
+* DOM - https://www.w3schools.com/js/js_htmldom.asp
+* document.getElementById - https://www.w3schools.com/jsref/met_document_getelementbyid.asp
+* innerHTML - https://www.w3schools.com/jsref/prop_html_innerhtml.asp
+* DOM Style Color - https://www.w3schools.com/jsref/prop_style_color.asp
