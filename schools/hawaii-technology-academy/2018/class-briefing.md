@@ -15,3 +15,15 @@ Resources:
 * Command Line Tutorial: https://www.learnenough.com/command-line-tutorial
 * Web Dev Video: https://www.youtube.com/watch?v=nKIu9yen5nc&t
 * Web Dev Rap Video: https://www.youtube.com/watch?v=78-RllzwDHo
+
+### Class Recap 01/10/18
+Format of the class was as follows:
+* Virtual Session
+* Reviewed command line basics in the terminal
+* Live-code linking up HTML with CSS and JS
+* Had the students interact and walk through the steps
+
+Resources:
+* Command Line Tutorial: https://www.learnenough.com/command-line-tutorial
+* HTML: https://www.w3schools.com/html/
+* CSS: https://www.w3schools.com/css/
