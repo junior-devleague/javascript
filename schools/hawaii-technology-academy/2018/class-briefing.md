@@ -18,12 +18,8 @@ Resources:
 
 ### Class Recap 01/10/18
 Format of the class was as follows:
-* Virtual Session
-* Reviewed command line basics in the terminal
-* Live-code linking up HTML with CSS and JS
-* Had the students interact and walk through the steps
-
-Resources:
-* Command Line Tutorial: https://www.learnenough.com/command-line-tutorial
-* HTML: https://www.w3schools.com/html/
-* CSS: https://www.w3schools.com/css/
+* Reviewed command line basics.
+* Relationship between HTML/CSS/JS - What each one stands for and what each one is used for.
+* HTML Review - Basic structure of creating a skeleton page. Reviewed different tags. Reviewed classes and id's.
+* CSS Review - Went over properties, id and class selectors.
+* Live Code: Created html page using lists, images, headers, and links. Added styling to the html page. How to connect files and check to see if they are connected.
