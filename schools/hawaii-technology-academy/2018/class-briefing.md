@@ -27,3 +27,15 @@ Resources:
 * Command Line Tutorial: https://www.learnenough.com/command-line-tutorial
 * HTML: https://www.w3schools.com/html/
 * CSS: https://www.w3schools.com/css/
+
+### Class Recap 01/11/18
+Format of the class was as follows:
+* Installed Git and node
+* Configured git-bash to working VScode integrated terminal
+* Went over git commands and walkthrough my-first-repo
+* Asssigned cookie-monster
+
+Resources:
+* Github Guide: https://guides.github.com/
+* HTML: https://www.w3schools.com/html/
+* CSS: https://www.w3schools.com/css/
