@@ -39,3 +39,13 @@ Resources:
 * Github Guide: https://guides.github.com/
 * HTML: https://www.w3schools.com/html/
 * CSS: https://www.w3schools.com/css/
+
+## Week 2
+
+### Class Recap 01/16/18
+Format of the class was as follows:
+* Check-in with students to see how far they got with cookie-monster
+* Students continued to work on cookie-monster for the duration of clsas
+
+* HTML: https://www.w3schools.com/html/
+* CSS: https://www.w3schools.com/css/
