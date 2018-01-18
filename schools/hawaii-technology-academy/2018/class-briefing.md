@@ -47,5 +47,20 @@ Format of the class was as follows:
 * Check-in with students to see how far they got with cookie-monster
 * Students continued to work on cookie-monster for the duration of clsas
 
+Resources:
 * HTML: https://www.w3schools.com/html/
 * CSS: https://www.w3schools.com/css/
+
+### Class Recap 01/17/18
+Format of the class was as follows:
+* Vitrual Session
+* Live-coding linking html, css, and js files
+* Quick review on creating html elements and styling with css
+* Introduction to DOM - What is DOM, Syntax
+* Accessing elements by ID
+* Modified and styled elements
+* Created new elements and appending it to the HTML document
+* Assigned my-pokedex
+
+Resources:
+* DOM: https://www.w3schools.com/js/js_htmldom_document.asp
