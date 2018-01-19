@@ -64,3 +64,16 @@ Format of the class was as follows:
 
 Resources:
 * DOM: https://www.w3schools.com/js/js_htmldom_document.asp
+
+
+### Class Recap 01/18/18
+Format of the class was as follows:
+* All students presented their cookie monster assignment
+* Went over committing and pushing their repo to github
+* Worked on my-pokedex and answered questions
+* Brief review of variables and data types
+* Assigned medium blog post: Explain what html, css, and javascript to someone who doesn't know what it is.
+* Assigned: https://github.com/junior-devleague/about-me
+
+Resources:
+* JS DataTypes: https://www.w3schools.com/js/js_datatypes.asp
