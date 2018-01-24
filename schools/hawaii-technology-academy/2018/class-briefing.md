@@ -77,3 +77,17 @@ Format of the class was as follows:
 
 Resources:
 * JS DataTypes: https://www.w3schools.com/js/js_datatypes.asp
+
+## Week 3
+
+### Class Recap 01/23/18
+Format of the class was as follows:
+* Gave students some time to work on their about-me assignment
+* Went over conditional operators and what each one means
+* Reviewed if, else, and if/else statements
+* Went over adding EventListeners to buttons in the DOM
+* Assigned: https://github.com/junior-devleague/iffy
+
+Resources:
+* JS conditional statements: https://www.w3schools.com/js/js_if_else.asp
+* JS EventListeners: https://www.w3schools.com/js/js_htmldom_eventlistener.asp
