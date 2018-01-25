@@ -14,7 +14,7 @@
 * Pens
 * Index Cards
 
-  #### Instructions
+#### Instructions
 
 * Students will need to break up into teams (or pairs if small class size)
 * Students will be given an index card with an array method challenge.
