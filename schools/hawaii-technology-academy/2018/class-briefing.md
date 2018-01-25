@@ -91,3 +91,14 @@ Format of the class was as follows:
 Resources:
 * JS conditional statements: https://www.w3schools.com/js/js_if_else.asp
 * JS EventListeners: https://www.w3schools.com/js/js_htmldom_eventlistener.asp
+
+### Class Recap 01/24/18
+Format of the class was as follows:
+* Reviewed arrays, syntax, what they're used for
+* Reviewed accessing arrays using accessor methods
+* Reviewed Array methods
+* Discussed what mutating array methods are as opposed to non-mutating methods
+* Assigned: https://github.com/junior-devleague/arrays-all-day
+
+Resources:
+* JS accessing arrays: https://www.w3schools.com/js/js_arrays.asp
