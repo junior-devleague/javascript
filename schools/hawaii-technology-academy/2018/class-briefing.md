@@ -102,3 +102,14 @@ Format of the class was as follows:
 
 Resources:
 * JS accessing arrays: https://www.w3schools.com/js/js_arrays.asp
+
+### Class Recap 01/25/18
+Format of class was as follows:
+* Played a whiteboard array activity with students:
+https://github.com/junior-devleague/javascript/tree/master/exercises/offscreen-activities/hip-hip-arrays
+* Students broke up into teams, were assigned an array method, and had to research to solve each given challenge.
+* Students then presented the solutions to their challenges.
+* Second half of the class students worked on iffy assignment.
+
+Resources:
+* JS accessing arrays: https://www.w3schools.com/js/js_array_methods.asp
