@@ -186,9 +186,18 @@ Format of the class was as follows:
 * Continued to jam on open-the-presents until break
 * Students presented their open-the-presents project to the class
 
-## Week 16 1/22/18
+## Week 16 
+### Class Recap 1/22/18
 Format for the class was as follows:
 * About 13 students were in the class today, no one is on break so this is about the size of the class.
 * Began with a review of HTML, CSS, and command lines, students were able to pick it up very quickly
 * Gave them a small assignment to use all Heading Tags, and image tags together to talk about what they did on their break.
 * Gave them Cookie-Monster assignment to work on, this will be continued into next class.
+
+### Class Recap 1/25/18
+Format of the class was as follows: 
+
+* About 13 students showed up to class today
+* Began with a live-code of Cookie-Monster, completed the HTML portion
+* After break, students continued on their own to finish the CSS and styling of the website.
+* Will give them time to finish Cookie-Monster before they present next class.
