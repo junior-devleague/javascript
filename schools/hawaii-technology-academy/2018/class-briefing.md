@@ -113,3 +113,12 @@ https://github.com/junior-devleague/javascript/tree/master/exercises/offscreen-a
 
 Resources:
 * JS accessing arrays: https://www.w3schools.com/js/js_array_methods.asp
+
+### Class Recap 01/30/18
+Format of class was as follows:
+* Live-Coded iffy assignment solution 
+* Spent remainder of the class working on arrays-all-day
+* Will live-code arrays-all-day solution tomorrow during virtual class
+
+Resources:
+* JS accessing arrays: https://www.w3schools.com/js/js_array_methods.asp
