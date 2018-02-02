@@ -201,3 +201,20 @@ Format of the class was as follows:
 * Began with a live-code of Cookie-Monster, completed the HTML portion
 * After break, students continued on their own to finish the CSS and styling of the website.
 * Will give them time to finish Cookie-Monster before they present next class.
+
+## Week 17
+### Class Recap 1/29/18
+
+* 13 Students showed up to class today
+* Began class with giving them time to finish up their Cookie-monster assignment 
+* After break, began presentations
+* About 5 students presentted, will continue presentations next class
+
+### Class Recap 2/1/18
+Format of the class was as follows:
+
+* 13 Students showed up to class today
+* Continued with presentations from last class
+* After presentations, began with a recap of Javascript
+* Recapped over DOM  and variables.  Taught them about image source in DOM
+* Will continue with DOM/JS review and assignment for next class
