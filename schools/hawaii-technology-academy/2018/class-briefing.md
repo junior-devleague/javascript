@@ -122,3 +122,21 @@ Format of class was as follows:
 
 Resources:
 * JS accessing arrays: https://www.w3schools.com/js/js_array_methods.asp
+
+### Class Recap 01/31/18
+Format of class was as follows:
+* Reviewed objects in JavaScript 
+* Went over how to access objects using dot and bracket notation
+* Assigned: https://github.com/junior-devleague/lunchtime
+
+Resources:
+* JS accessing arrays: https://www.w3schools.com/js/js_objects.asp
+
+### Class Recap 02/01/18
+Format of class was as follows:
+* Announced that we will be giving out quizzes every other week
+* Students spent remainder of class working on lunchtime assignment
+* Assigned: Blog post topic- Difference Between Objects and Arrays
+
+Resources:
+* JS accessing arrays: https://www.w3schools.com/js/js_objects.asp
