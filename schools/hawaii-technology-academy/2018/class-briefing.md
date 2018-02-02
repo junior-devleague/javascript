@@ -111,6 +111,8 @@ https://github.com/junior-devleague/javascript/tree/master/exercises/offscreen-a
 * Students then presented the solutions to their challenges.
 * Second half of the class students worked on iffy assignment.
 
+## Week 4
+
 Resources:
 * JS accessing arrays: https://www.w3schools.com/js/js_array_methods.asp
 
