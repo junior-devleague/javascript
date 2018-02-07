@@ -142,3 +142,10 @@ Format of class was as follows:
 
 Resources:
 * JS accessing arrays: https://www.w3schools.com/js/js_objects.asp
+
+## Week 5
+
+### Class Recap 02/06/18
+Format of class was as follows:
+* Students were given time to finish and submit medium blog post by the end of class
+* Students who finished blog assignment continued working on lunchtime assignment
