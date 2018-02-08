@@ -149,3 +149,10 @@ Resources:
 Format of class was as follows:
 * Students were given time to finish and submit medium blog post by the end of class
 * Students who finished blog assignment continued working on lunchtime assignment
+
+### Class Recap 02/07/18
+Format of class was as follows:
+* Live coded for loops, while loops, and for in loop
+* Assigned: https://github.com/junior-devleague/my-favorite-things
+
+
