@@ -155,4 +155,11 @@ Format of class was as follows:
 * Live coded for loops, while loops, and for in loop
 * Assigned: https://github.com/junior-devleague/my-favorite-things
 
+### Class Recap 02/08/18
+Format of class was as follows:
+* Students took Quiz#1
+* Continued to jam lunchtime and my-favorite-things during the rest of class
+* Assigned Blog #4
+
+
 
