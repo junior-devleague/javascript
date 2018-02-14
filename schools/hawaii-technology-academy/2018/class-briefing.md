@@ -161,5 +161,23 @@ Format of class was as follows:
 * Continued to jam lunchtime and my-favorite-things during the rest of class
 * Assigned Blog #4
 
+## Week 5
+
+### Class Recap 02/13/18
+Format of class was as follows:
+* Student Blogs were due
+* In-class activity: 
+  - Perform instructions on given index card using a for loop
+  - Whiteboard practice by presenting solution to the class
+* Spent remainder of the class working on my-favorite-things
+
+### Class Recap 02/14/18
+Format of class was as follows:
+* TBA
+
+### Class Recap 02/15/18
+Format of class was as follows:
+* TBA
+
 
 
