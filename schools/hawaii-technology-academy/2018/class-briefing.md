@@ -161,7 +161,7 @@ Format of class was as follows:
 * Continued to jam lunchtime and my-favorite-things during the rest of class
 * Assigned Blog #4
 
-## Week 5
+## Week 6
 
 ### Class Recap 02/13/18
 Format of class was as follows:
@@ -173,7 +173,8 @@ Format of class was as follows:
 
 ### Class Recap 02/14/18
 Format of class was as follows:
-* TBA
+* Live-Coded functions Virtual Sessions
+* Assigned: https://github.com/junior-devleague/functions-scavenger-hunt
 
 ### Class Recap 02/15/18
 Format of class was as follows:
