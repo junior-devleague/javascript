@@ -178,7 +178,8 @@ Format of class was as follows:
 
 ### Class Recap 02/15/18
 Format of class was as follows:
-* TBA
+* Spent all class day working on my-favorite-things or functions-scavenger-hung
+* Mel, Mark, and Jay walked around class helping students that are falling behind
 
 
 
