@@ -181,5 +181,13 @@ Format of class was as follows:
 * Spent all class day working on my-favorite-things or functions-scavenger-hung
 * Mel, Mark, and Jay walked around class helping students that are falling behind
 
+### Class Recap 02/20/18
+Format of class was as follows:
+* Afternoon challenge: Reverse a String
+* Live-coded solution for afternoon challenge
+* Live-coded my-favorite-things and had class help write the code
+* Spent remainder of class working on scavenger hunt
+
+
 
 
