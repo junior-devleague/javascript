@@ -188,6 +188,24 @@ Format of class was as follows:
 * Live-coded my-favorite-things and had class help write the code
 * Spent remainder of class working on scavenger hunt
 
+### Class Recap 02/21/18
+Format of class was as follows:
+* Live-Coded solution scavenger-hunt 
+* Assigned: js-functions and set up project
+* Went over any oustanding questions students had
+
+### Class Recap 02/22/18
+Format of class was as follows:
+* Started clas with Quiz #2 
+* Spent the remainder of class working on js-functions
+* Some students finished early while others were a little slower and confused
+* Will be going over solutions on Monday
+
+Resources: 
+* js-functions https://github.com/junior-devleague/js-functions
+* W3 school https://www.w3schools.com/js/js_functions.asp
+
+
 
 
 
