@@ -219,6 +219,7 @@ Format of the class was as follows:
 * Recapped over DOM  and variables.  Taught them about image source in DOM
 * Will continue with DOM/JS review and assignment for next class
 
+## Week 18
 ### Class Recap 2/5/18
 Format of the class was as follows:
 
@@ -236,6 +237,7 @@ Format of the class was as follows:
 * Reviewed over Arrays and accessing arrays
 * No class until 2/22/18
 
+## Week 19
 ### Class Recap 2/22/18
 Format of the class was as follows:
 
