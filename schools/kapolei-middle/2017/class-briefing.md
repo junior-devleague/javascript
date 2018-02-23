@@ -218,3 +218,28 @@ Format of the class was as follows:
 * After presentations, began with a recap of Javascript
 * Recapped over DOM  and variables.  Taught them about image source in DOM
 * Will continue with DOM/JS review and assignment for next class
+
+### Class Recap 2/5/18
+Format of the class was as follows:
+
+* 13 students were in class today
+* Reviewed over data types and Objects
+* Handed them JS_Hero to work on 
+* Worked on assignment for the rest of class
+
+### Class Recap 2/8/18
+Format of the class was as follows:
+
+* 13 Students were in class today
+* Allowed them first half of class to work on JS Hero
+* Most of class got it finished today so continued with Review
+* Reviewed over Arrays and accessing arrays
+* No class until 2/22/18
+
+### Class Recap 2/22/18
+Format of the class was as follows:
+
+* Only 7 students were in class today, Blue track is on break currently
+* Assigned them Not-Beary-Friendly to work on in class
+* Assignment reviewed over arrays, functions, and DOM
+* Most kids got it done so I handed them Mix Master assignment to work on next
