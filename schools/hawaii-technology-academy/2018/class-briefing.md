@@ -176,6 +176,8 @@ Format of class was as follows:
 * Live-Coded functions Virtual Sessions
 * Assigned: https://github.com/junior-devleague/functions-scavenger-hunt
 
+## Week 7
+
 ### Class Recap 02/15/18
 Format of class was as follows:
 * Spent all class day working on my-favorite-things or functions-scavenger-hung
@@ -187,6 +189,8 @@ Format of class was as follows:
 * Live-coded solution for afternoon challenge
 * Live-coded my-favorite-things and had class help write the code
 * Spent remainder of class working on scavenger hunt
+
+## Week 8
 
 ### Class Recap 02/21/18
 Format of class was as follows:
@@ -203,6 +207,24 @@ Format of class was as follows:
 
 Resources: 
 * js-functions https://github.com/junior-devleague/js-functions
+* W3 school https://www.w3schools.com/js/js_functions.asp
+
+## Week 9
+
+### Class Recap 02/27/18
+Format of class was as follows:
+* Afternoon challenge: Find the length of the longest word in a string
+* Had 1 student volunteer white board the solution
+* Whi
+* Scrum stand-up. Students answered the following questions:
+  - What are you currently working on?
+  - What are your current blockers?
+* Students continued working on js-functions for the remainder of class
+* One third of the class finished js-functions, so they moved onto js-functions-level-2
+
+Resources:
+* js-functions https://github.com/junior-devleague/js-functions
+* js-functions-level-2 https://github.com/junior-devleague/js-functions-level-2
 * W3 school https://www.w3schools.com/js/js_functions.asp
 
 
