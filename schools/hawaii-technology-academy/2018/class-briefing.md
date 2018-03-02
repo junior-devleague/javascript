@@ -227,6 +227,27 @@ Resources:
 * js-functions-level-2 https://github.com/junior-devleague/js-functions-level-2
 * W3 school https://www.w3schools.com/js/js_functions.asp
 
+### Class Recap 02/28/18
+Format of class was as follows:
+* Went over quiz#2
+* Gave in depth explanation about using `return`in a function 
+* Live-coded questions about js-funtions
+
+Resources:
+* js-functions https://github.com/junior-devleague/js-functions
+* js-functions-level-2 https://github.com/junior-devleague/js-functions-level-2
+* W3 school https://www.w3schools.com/js/js_functions.asp
+
+### Class Recap 03/1/18
+Format of class was as follows:
+* Daily Stand Up
+* Spent rest of class working on js-functions and js-functions-level-2
+* Assigned Blog: ELI5: what a function is and how does it work?
+
+Resources:
+* js-functions https://github.com/junior-devleague/js-functions
+* js-functions-level-2 https://github.com/junior-devleague/js-functions-level-2
+* W3 school https://www.w3schools.com/js/js_functions.asp
 
 
 
