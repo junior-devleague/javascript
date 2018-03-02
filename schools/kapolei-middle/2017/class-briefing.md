@@ -245,3 +245,23 @@ Format of the class was as follows:
 * Assigned them Not-Beary-Friendly to work on in class
 * Assignment reviewed over arrays, functions, and DOM
 * Most kids got it done so I handed them Mix Master assignment to work on next
+
+### Class Recap 2/26/18
+Format of the class was as follows:
+
+* About 7 students showed up to class today, Blue Track still on break
+* Allowed students time to cotinue working on Mix-Master
+* Most students got it complete so they were allowd to go look for their own sounds for Mix-Master
+* Other students still have a little more to complete
+* Will allow time next class to work on their assignments
+
+## Week 20
+### Class Recap 3/1/2018
+Format of the class was as follows:
+
+* Blue Track back from break, about 13 students today
+* Started off with a game of Pictionary and variables.  The students that came back couldn't remember much and I had to explain what it was again in secret.
+* Had some trouble today with students losing interest.  Teams would've been better
+* After break, we cotinued Pictionary for 15 more minutes
+* Had them work on their assignments until the end of class.
+* Mix-Master will be extended an extra day
