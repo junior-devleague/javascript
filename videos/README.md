@@ -1,6 +1,13 @@
-## List of JavaScript for Class
+## List of JavaScript Videos for Class
 
 #### Introduction to JavaScript
+
+Inspirational Videos
+* Top Ten Reasons To Code https://www.youtube.com/watch?v=78-RllzwDHo [2:13]
+* What Most Schools Don't Teach https://www.youtube.com/watch?v=nKIu9yen5nc&t= [5:43]
+
+
+Introduction to Web Development
 
 * What Is JavaScript? https://www.youtube.com/watch?v=nItSSTwBvSU [2:16]
 * HTML, CSS, JavaScript Explained https://www.youtube.com/watch?v=gT0Lh1eYk78 [3:57]
