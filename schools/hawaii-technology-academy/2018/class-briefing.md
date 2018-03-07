@@ -250,5 +250,18 @@ Resources:
 * W3 school https://www.w3schools.com/js/js_functions.asp
 
 
+## Week 10
+
+### Class Recap 03/6/18
+Format of class was as follows:
+* Morning Challenge:  https://www.freecodecamp.org/challenges/truncate-a-string
+* Had Andrew go up and white board solution
+* Showed video about pair programming: https://www.youtube.com/watch?v=vgkahOzFH2Q
+* Explained the rules about Pair Programming
+* Set up teams and had them clone repo
+
+Resources:
+* How to Pair Program https://medium.com/@jdxcode/how-to-pair-program-d6741077e513
+
 
 
