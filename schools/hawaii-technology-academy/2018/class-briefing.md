@@ -252,16 +252,36 @@ Resources:
 
 ## Week 10
 
-### Class Recap 03/6/18
+### Class Recap 03/7/18
 Format of class was as follows:
-* Morning Challenge:  https://www.freecodecamp.org/challenges/truncate-a-string
-* Had Andrew go up and white board solution
-* Showed video about pair programming: https://www.youtube.com/watch?v=vgkahOzFH2Q
-* Explained the rules about Pair Programming
-* Set up teams and had them clone repo
+* Virtual Session
+* Mark lectured about flex-box
 
 Resources:
-* How to Pair Program https://medium.com/@jdxcode/how-to-pair-program-d6741077e513
+* Flexbox Repo https://github.com/MOtaJ/Flex-Box-Guide
+
+## Week 10
+
+### Class Recap 03/8/18
+Format of class was as follows:
+* Mark lectured on final parts of flexbox from the repo
+* Students continued to jam on whack-a-mole pair programmin
 
 
+## Week 11
 
+### Class Recap 03/13/18
+Format of class was as follows:
+* Afternoon Challenge:  https://www.freecodecamp.org/challenges/factorialize-a-number
+* Had studen whiteboard solution
+* Students continued to jam on whack-a-mole
+
+
+### Class Recap 03/14/18
+Format of class was as follows:
+* Reviewed quiz #3
+* Had students walk us through first portion of JS in whack-a-mole
+* Live-coded setInterval
+
+Resources: 
+* Set Interval: https://www.w3schools.com/jsref/met_win_setinterval.asp
