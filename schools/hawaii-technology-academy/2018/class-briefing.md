@@ -285,3 +285,15 @@ Format of class was as follows:
 
 Resources: 
 * Set Interval: https://www.w3schools.com/jsref/met_win_setinterval.asp
+
+
+### Class Recap 03/15/18
+Format of class was as follows:
+* Students continue to jam on whack-a-mole and practice pair programming
+* All students are working on the javascript portion of the project
+* About 3 teams have MVP and are currently working on stretch goals
+
+Resources: 
+* Set Interval: https://www.w3schools.com/jsref/met_win_setinterval.asp
+* Append Child DOM: https://www.w3schools.com/jsref/met_node_appendchild.asp
+* Create Element: https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement
