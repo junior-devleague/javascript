@@ -297,3 +297,25 @@ Resources:
 * Set Interval: https://www.w3schools.com/jsref/met_win_setinterval.asp
 * Append Child DOM: https://www.w3schools.com/jsref/met_node_appendchild.asp
 * Create Element: https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement
+
+### Class Recap 03/28/18
+Format of class was as follows:
+* Students continue to jam on whack-a-mole and practice pair programming
+* Majority students have completed MVP
+* Working on stretch goals and extra featurs
+* Will be presenting individual projects thursday
+
+Resources: 
+* Set Interval: https://www.w3schools.com/jsref/met_win_setinterval.asp
+* Append Child DOM: https://www.w3schools.com/jsref/met_node_appendchild.asp
+* Create Element: https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement
+
+### Class Recap 03/29/18
+Format of class was as follows:
+* Mark had students walk through MVP of whack a mole
+* Suggested ideas to make the game better 
+
+Resources: 
+* Set Interval: https://www.w3schools.com/jsref/met_win_setinterval.asp
+* Append Child DOM: https://www.w3schools.com/jsref/met_node_appendchild.asp
+* Create Element: https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement
