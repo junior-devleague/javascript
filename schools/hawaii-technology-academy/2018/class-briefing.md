@@ -319,3 +319,22 @@ Resources:
 * Set Interval: https://www.w3schools.com/jsref/met_win_setinterval.asp
 * Append Child DOM: https://www.w3schools.com/jsref/met_node_appendchild.asp
 * Create Element: https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement
+
+### Class Recap 04/3/18
+Format of class was as follows:
+* Started off with Scrum
+* Gave 10 minutes for students to polish up
+* Spent remainder of class time on presentations
+
+
+### Class Recap 04/4/18
+Format of class was as follows:
+* Live-coded on HTML Forms https://github.com/junior-devleague/forms-tutorial
+* Assigned Build-a-pet https://github.com/junior-devleague/build-a-pet
+
+Resources: 
+https://www.w3schools.com/jsref/event_onsubmit.asp 
+https://www.w3schools.com/html/html_forms.asp
+
+
+
