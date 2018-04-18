@@ -348,7 +348,7 @@ https://www.w3schools.com/js/js_objects.asp
 ### Class Recap 04/10/18
 Format of class was as follows:
 * Afternoon challenge, Title Case a Sentence
-* Stand up
+- Stand up
   - What is your progress?
   - What are you working on today? 
   - Do you have any blockers? 
@@ -363,7 +363,7 @@ Format of class was as follows:
 Format of class was as follows:
 * Whack-a-mole Presentation for Cody
 * Quiz #4
-* Stand up
+- Stand up
  - What is your progress?
  - What are you working on today? 
  - Do you have any blockers? 
@@ -371,8 +371,8 @@ Format of class was as follows:
 
 ### Class Recap 04/17/18
 Format of class was as follows:
-* Stand up
+- Stand up
  - What is your progress?
  - What are you working on today? 
  - Do you have any blockers? 
-- live-code of how we get form data through DOM
+* live-code of how we get form data through DOM
