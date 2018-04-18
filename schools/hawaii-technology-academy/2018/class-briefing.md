@@ -336,5 +336,43 @@ Resources:
 https://www.w3schools.com/jsref/event_onsubmit.asp 
 https://www.w3schools.com/html/html_forms.asp
 
+### Class Recap 04/5/18
+Format of class was as follows:
+* Worked on afternoon challenge, Repeat a String
+* Refresh students on how to add properties to objects
+* Set up HTML forms for https://github.com/junior-devleague/build-a-pet
 
+Resources: 
+https://www.w3schools.com/js/js_objects.asp
 
+### Class Recap 04/10/18
+Format of class was as follows:
+* Afternoon challenge, Title Case a Sentence
+* Stand up
+  - What is your progress?
+  - What are you working on today? 
+  - Do you have any blockers? 
+* Updated repo/assignment
+* Continue on build-a-pet https://github.com/junior-devleague/build-a-pet
+
+### Class Recap 04/11/18
+Format of class was as follows:
+* Students still having trouble with HTML forms, so Mark live-coded that
+
+### Class Recap 04/12/18
+Format of class was as follows:
+* Whack-a-mole Presentation for Cody
+* Quiz #4
+* Stand up
+ - What is your progress?
+ - What are you working on today? 
+ - Do you have any blockers? 
+* Continue with build a pet
+
+### Class Recap 04/17/18
+Format of class was as follows:
+* Stand up
+ - What is your progress?
+ - What are you working on today? 
+ - Do you have any blockers? 
+- live-code of how we get form data through DOM
