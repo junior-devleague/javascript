@@ -376,3 +376,18 @@ Format of class was as follows:
  - What are you working on today? 
  - Do you have any blockers? 
 * live-code of how we get form data through DOM
+
+
+### Class Recap 04/18/18 (Virtual Session)
+Format of class was as follows:
+- Reviewed Quiz #4
+- Walkthrough build-a-pet creating loops by class name
+
+### Class Recap 04/19/18 
+Format of class was as follows:
+- Stand up
+ - What is your progress?
+ - What are you working on today? 
+ - Do you have any blockers?
+- Spent remainder of class walking around and helping students
+- Majority of students got form values to be saved into an object
