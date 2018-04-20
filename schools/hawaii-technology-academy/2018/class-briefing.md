@@ -383,6 +383,10 @@ Format of class was as follows:
 - Reviewed Quiz #4
 - Walkthrough build-a-pet creating loops by class name
 
+Resources: 
+https://www.w3schools.com/js/js_loop_for.asp
+https://www.w3schools.com/js/js_properties.asp
+
 ### Class Recap 04/19/18 
 Format of class was as follows:
 - Stand up
@@ -391,3 +395,7 @@ Format of class was as follows:
  - Do you have any blockers?
 - Spent remainder of class walking around and helping students
 - Majority of students got form values to be saved into an object
+
+Resources: 
+https://www.w3schools.com/js/js_loop_for.asp
+https://www.w3schools.com/js/js_properties.asp
