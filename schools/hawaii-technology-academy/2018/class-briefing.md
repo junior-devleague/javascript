@@ -399,3 +399,15 @@ Format of class was as follows:
 Resources: 
 https://www.w3schools.com/js/js_loop_for.asp
 https://www.w3schools.com/js/js_properties.asp
+
+### Class Recap 04/24/18 
+Format of class was as follows:
+- Had class push up their build-a-pet assignment
+- Live-code local storage
+  - repo https://github.com/junior-devleague/teaching-local-storage
+- Assignment
+  - https://github.com/junior-devleague/all-the-likes
+
+Resources: 
+https://www.taniarascia.com/how-to-use-local-storage-with-javascript/
+
