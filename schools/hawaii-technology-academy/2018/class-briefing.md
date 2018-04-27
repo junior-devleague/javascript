@@ -411,3 +411,15 @@ Format of class was as follows:
 Resources: 
 https://www.taniarascia.com/how-to-use-local-storage-with-javascript/
 
+### Class Recap 04/25/18 
+Format of class was as follows:
+- Reviewed how to use methods in localStorage
+  - Had class walk me through it
+- Overview of how to start all-the-likes
+  - Students jammed at home and I stayed on virtual session in case students had questions
+  - https://github.com/junior-devleague/all-the-likes
+  
+### Class Recap 04/26/18 
+Format of class was as follows:
+- Quiz #5
+- Students spent remainder of class working on all-the-likes
