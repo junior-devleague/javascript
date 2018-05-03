@@ -434,3 +434,6 @@ Format of class was as follows:
 - Review Quiz #5
 - Lectured about API's and XMLHttpRequest
 - Live-coded requesting JSON data from SWAPI with XHR
+
+Resources:
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
