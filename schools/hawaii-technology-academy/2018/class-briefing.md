@@ -423,3 +423,14 @@ Format of class was as follows:
 Format of class was as follows:
 - Quiz #5
 - Students spent remainder of class working on all-the-likes
+
+### Class Recap 05/1/18 
+Format of class was as follows:
+- Students spent entire class working on all-the-likes
+- Spoke with malama maunalua about students creating an app
+
+### Class Recap 05/2/18
+Format of class was as follows:
+- Review Quiz #5
+- Lectured about API's and XMLHttpRequest
+- Live-coded requesting JSON data from SWAPI with XHR
