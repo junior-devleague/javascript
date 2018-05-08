@@ -437,3 +437,12 @@ Format of class was as follows:
 
 Resources:
 https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
+
+### Class Recap 05/3/18
+Format of class was as follows:
+- Student's had last day to jam on all-the-likes
+- Those who finished early worked on use-the-force
+  - https://github.com/junior-devleague/use-the-force
+
+Resources:
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
