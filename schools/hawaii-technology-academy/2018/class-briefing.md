@@ -446,3 +446,27 @@ Format of class was as follows:
 
 Resources:
 https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
+
+### Class Recap 05/8/18
+Format of class was as follows:
+- Student's had 15 more mins to jam on all-the-likes
+- Those who finished early worked on use-the-force
+  - https://github.com/junior-devleague/use-the-force
+
+Resources:
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
+
+### Class Recap 05/9/18
+Format of class was as follows:
+- Live coded another XHR example using Reddit API
+- Rendered picture from every post
+
+Resources:
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
+
+### Class Recap 05/10/18
+Format of class was as follows:
+- Continued to jam on use-the-force
+
+Resources:
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
